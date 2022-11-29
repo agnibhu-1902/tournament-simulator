@@ -1,5 +1,5 @@
 # tournament-simulator
-Simulate a sports tournament and calculate the probability of a team winning.
+Simulates a sports tournament and calculates the probability of a team winning.
 ### Usage:
 ```
 python tournament.py filename.csv
