@@ -2,5 +2,5 @@
 Simulate a sports tournament and calculate the probability of a team winning.
 ### Usage:
 ```
-python tournament.py
+python tournament.py filename.csv
 ```
